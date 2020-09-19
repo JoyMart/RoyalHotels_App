@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c95ea7f-49be-49bf-aca7-f6f58e5b90ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPzqOnhYzOLcGHgxNeTU7JrcnP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hello_World" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PyProjects\techproject\src\mainapp\Assets\images" />
+      <recent name="C:\PyProjects\techproject\src\mainapp\Assets\CSS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c95ea7f-49be-49bf-aca7-f6f58e5b90ee" name="Default Changelist" comment="" />
+      <created>1599927705329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599927705329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="983" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600541194550">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="983" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1600541194550" />
+    <state x="917" y="190" key="FileChooserDialogImpl" timestamp="1600288621488">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="917" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600288621488" />
+    <state x="745" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600365313130">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="745" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1600365313130" />
+    <state x="799" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1599934114064">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="799" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1599934114064" />
+  </component>
+</project>
